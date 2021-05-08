@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)   
 
 This is the basic addition operation cli built in golang using cobra library.
+可以[参考](https://www.qikqiak.com/post/create-cli-app-with-cobra/)
 
 ## :computer: Tech used 
 
