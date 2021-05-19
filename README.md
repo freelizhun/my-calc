@@ -10,7 +10,7 @@ This is the basic addition operation cli built in golang using cobra library.
 1. golang (go version go1.11.5 windows/amd64)
 2. cobra
 
-### :blue_book: The complete tutorial is published on [Blog](https://schadokar.dev/posts/how-to-create-a-cli-in-golang-with-cobra/) :confetti_ball:   
+### :blue_book: The complete tutorial is published on [Blog](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177) :confetti_ball:   
 
 ## Author   
 
